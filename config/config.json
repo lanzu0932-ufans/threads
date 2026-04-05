@@ -1,0 +1,19 @@
+{
+  "memory_dir": "/home/ying/桌面/happy/memory",
+  "data_dir": "/home/ying/桌面/happy/data",
+  "logs_dir": "/home/ying/桌面/happy/logs",
+  "affiliate": {
+    "offer_id": 2226,
+    "affiliate_base": "https://vbtrax.com/track/clicks/2226"
+  },
+  "tripcom": {
+    "homepage_url": "https://tw.trip.com",
+    "promo_page_url": "https://tw.trip.com/sales",
+    "locale": "zh-TW"
+  },
+  "fetch_settings": {
+    "max_promotions": 50,
+    "detail_fetch_timeout": 30000,
+    "page_load_timeout": 30000
+  }
+}

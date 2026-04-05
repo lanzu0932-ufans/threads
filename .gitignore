@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 資料庫
+*.db
+*.db-shm
+*.db-wal
+
+# 記憶
+memory/*.md
+!memory/README.md
+
+# 設定（敏感資訊）
+config/affiliates.json
+
+# 日誌
+logs/*.log
+
+# 暫存
+*.tmp
+*.swp
+.DS_Store
